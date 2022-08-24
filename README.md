@@ -4,17 +4,12 @@ A simple collection of groups, websites for finding IT jobs.
 
 # TO-DO
 
-[ ] Adding Only Job Websites
-
-[ ] Adding Facebook Job Groups
-
-[ ] Adding Websites of Tech Companies
-
-[ ] Remote Job websites
-
-[ ] International Job Sites
-
-[ ] Websites of Tech Companies - Worldwide   
+- [x] Adding Only Job Websites
+- [x] Adding Facebook Job Groups
+- [ ] Adding Websites of Tech Companies
+- [ ] Remote Job websites
+- [ ] International Job Sites
+- [ ] Websites of Tech Companies - Worldwide   
 
 # Websites
 
