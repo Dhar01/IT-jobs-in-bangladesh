@@ -41,4 +41,4 @@
 
 # Similar Like this:
 
-- [GitHub - MBSTUPC/tech-companies-in-bangladesh: List of tech companies to help developers to find job.](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
+- [MBSTUPC/tech-companies-in-bangladesh](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
