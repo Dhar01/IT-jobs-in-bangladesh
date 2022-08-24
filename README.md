@@ -4,7 +4,7 @@
 
 - [x] Adding Only Job Websites - 🇧🇩
 - [x] Adding Facebook Job Groups - 🇧🇩
-- [ ] Adding Websites of Tech Companies - 🇧🇩
+- [ ] Adding Websites of Tech Companies - 🇧🇩 (*section: similar like this*)
 - [ ] Remote Job websites
 - [ ] International Job Sites
 - [ ] Websites of Tech Companies - Worldwide   
@@ -38,7 +38,18 @@
 - [DevOps Engineer's in Bangladesh](https://www.facebook.com/groups/796972597323792?sorting_setting=CHRONOLOGICAL)
 - [DevOps & TechOps](https://www.facebook.com/groups/bd.sysops.devops?sorting_setting=CHRONOLOGICAL)
 
+# Remote Jobsites
+
+# International Jobsites
 
 # Similar Like this:
 
 - [MBSTUPC/tech-companies-in-bangladesh](https://github.com/MBSTUPC/tech-companies-in-bangladesh)
+
+# Contribute
+
+1. Fork the repository.
+2. Add your resources in the available sections.
+3. Create a pull request.
+
+Done!
