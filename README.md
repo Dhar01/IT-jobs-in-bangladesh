@@ -1,4 +1,4 @@
-💻 A resource for Bangladeshi IT Job Seekers 💼
+💻 A list of resources for Bangladeshi IT Job Seekers 💼
 
 # 📝 TO-DO
 
